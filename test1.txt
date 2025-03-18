@@ -1,1 +1,5 @@
 create test1.txt file
+creat a file github
+then open local repo of git 
+apply the demo deployment
+
